@@ -1,0 +1,15 @@
+node_modules
+dist
+coverage
+logs
+uploads
+.env
+.env.*
+*.log
+.git
+.gitignore
+README.md
+.dockerignore
+Dockerfile
+jest.config.js
+tests
